@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "discord.js": "discordjs/discord.js",
+    "zlib-sync": "^0.1.6"
+  }
+}
